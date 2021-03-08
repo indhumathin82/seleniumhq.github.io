@@ -45,7 +45,7 @@ The Selenium project welcomes new contributors. Individuals making
 significant and valuable contributions over time are made _Committers_
 and given commit-access to the project.
 
-This guide will guide you through the contribution process.
+This following steps will guide you through the contribution process.
 
 ### Step 1: Fork
 
